@@ -16,8 +16,8 @@ This repository contains a range of LUA scripts made for different pay-to-cheat 
 ## 📁 Script List
 | Script Name            | Description                                                | Cheat Compatibility            |
 | ---------------------- | ---------------------------------------------------------- | ------------------------------ |
-| `hitlist on console.lua`| Logs detailed shot information, including hit/miss reasons and angle checks | arctic.tech csgo   |
-| `SOON.lua`               | Coming soon...                                            | [SOON]                         |
+| `hitlist on console.lua`| Logs detailed shot information, including hit/miss reasons and angle checks | arctictech csgo   |
+| `kittygirl_debug.lua`   | Anti-aim builder and ehancements for arctictech | arctictech                         |
 | `SOON.lua`               | Coming soon...                                            | [SOON]                         |
 | `SOON.lua`               | Coming soon...                                            | [SOON]                         |
 
@@ -41,9 +41,9 @@ This repository contains a range of LUA scripts made for different pay-to-cheat 
 
 ## 🛠️ Supported Cheats
 The following cheats are confirmed to support the scripts in this repository:
-- arctic.tech csgo
+- arctictech csgo
 
-> **Note:** Not all features may work perfectly on every cheat due to differences in their LUA support. 
+> **Note:** Not all features may work perfectly on every cheat due to differences in their LUA support and API. 
 
 ---
 
